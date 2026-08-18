@@ -1,0 +1,9 @@
+payment_id,application_id,amount,currency,status,gateway
+PAY1001,APP001,1200,INR,paid,demo-gateway
+PAY1002,APP002,850,INR,paid,demo-gateway
+PAY1003,APP003,1500,INR,failed,demo-gateway
+PAY1004,APP004,2100,INR,paid,demo-gateway
+PAY1005,APP005,600,INR,pending,demo-gateway
+PAY1006,APP006,950,INR,refunded,demo-gateway
+PAY1007,APP007,1750,INR,paid,demo-gateway
+PAY1008,APP008,1250,INR,paid,demo-gateway
